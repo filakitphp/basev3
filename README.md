@@ -15,7 +15,7 @@ web applications with a ready-to-use multi-panel structure.
 
 - **Laravel 12.x** - The latest version of the most elegant PHP framework
 - **Filament 3.x** - Powerful and flexible admin framework
-- **Multi-Panel Structure** - Includes three pre-configured panels:
+- **Panel Structure** - Includes three pre-configured panels:
     - Admin Panel (`/admin`) - For authenticated users
 - **Environment Configuration** - Centralized configuration through the `config/filakit.php` file
 
