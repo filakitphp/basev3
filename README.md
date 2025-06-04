@@ -99,22 +99,6 @@ Set up environment
 cp .env.example .env
 ```
 
-Configuring custom ports may be necessary if you have other services running on the same ports.
-
-```bash
-# Application Port (ex: 8080)
-APP_PORT=8080
-
-# MySQL Port (ex: 3306)
-FORWARD_DB_PORT=3306
-
-# Redis Port (ex: 6379)
-FORWARD_REDIS_PORT=6379
-
-# Mailpit Port (ex: 1025)
-FORWARD_MAILPIT_PORT=1025
-```
-
 Start the Sail containers
 ```bash
 ./vendor/bin/sail up -d
