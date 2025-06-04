@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## v3.1.1 - 2025-06-04
+
+**Full Changelog**: https://github.com/filakitphp/base/compare/v3.0.0...v3.1.1
+
 ## v3.1.0 - 2025-06-03
 
 **Full Changelog**: https://github.com/filakitphp/base/compare/3.0.0...v3.1.0
