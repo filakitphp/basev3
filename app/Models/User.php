@@ -74,18 +74,9 @@ class User extends Model implements AuthenticatableContract, AuthorizableContrac
      */
     public function canAccessPanel(Panel $panel): bool
     {
-        if ($panel->getId() === 'admin') {
-            return false;
-        }
-
         return true;
     }
-
-    public function canImpersonate(): bool
-    {
-        return false;
-    }
-
+    
     protected function casts(): array
     {
         return [
