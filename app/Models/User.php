@@ -69,9 +69,6 @@ class User extends Model implements AuthenticatableContract, AuthorizableContrac
         'remember_token',
     ];
 
-    /**
-     * @throws \Exception
-     */
     public function canAccessPanel(Panel $panel): bool
     {
         return true;
