@@ -76,7 +76,7 @@ class User extends Model implements AuthenticatableContract, AuthorizableContrac
     {
         return true;
     }
-    
+
     protected function casts(): array
     {
         return [
