@@ -77,45 +77,6 @@ Run the server
 php artisan serve
 ```
 
-## Installation with Docker
-
-Clone the repository
-```bash
-laravel new my-app --using=filakitphp/base --database=mysql
-```
-
-Move into the project directory
-```bash
-cd my-app
-```
-
-Install Composer dependencies
-```bash
-composer install
-```
-
-Set up environment
-```bash
-cp .env.example .env
-```
-
-Generate the application key
-```bash
-php artisan key:generate
-```
-
-Install JavaScript dependencies
-```bash
-pnpm install
-```
-
-## Authentication Structure
-
-FilaKit comes pre-configured with a custom authentication system that supports different types of users:
-
-- `Admin` - For administrative panel access
-- `User` - For application panel access
-
 ## Development
 
 ``` bash
