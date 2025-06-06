@@ -1,6 +1,6 @@
 <div class="filament-hidden">
 
-![FilaKit](https://raw.githubusercontent.com/filakitphp/base/3.x/art/filakitphp-base.png)
+![FilaKit](https://raw.githubusercontent.com/filakitphp/base/3.x/art/filakitphp-basev3.png)
 
 </div>
 
@@ -97,17 +97,6 @@ composer install
 Set up environment
 ```bash
 cp .env.example .env
-```
-
-Start the Sail containers
-```bash
-./vendor/bin/sail up -d
-```
-You won’t need to run `php artisan serve`, as Laravel Sail automatically handles the development server within the container.
-
-Attach to the application container
-```bash
-./vendor/bin/sail shell
 ```
 
 Generate the application key
