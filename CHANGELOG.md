@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## v3.3.46 - 2026-01-02
+
+### What's Changed
+
+* Bump laravel/pail from 1.2.2 to 1.2.3 in the actions-deps group by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/2
+* Bump the actions-deps group with 5 updates by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/4
+* Bump stefanzweifel/git-auto-commit-action from 5 to 6 in the actions-deps group by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/3
+* Bump the actions-deps group with 3 updates by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/5
+* Bump the actions-deps group with 10 updates by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/8
+* Bump the actions-deps group with 3 updates by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/6
+* Bump the actions-deps group with 2 updates by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/7
+
+**Full Changelog**: https://github.com/filakitphp/basev3/compare/v3.2.1...v3.3.46
+
 ## v3.2.1 - 2025-06-08
 
 **Full Changelog**: https://github.com/filakitphp/basev3/compare/v3.2.0...v3.2.1
