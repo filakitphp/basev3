@@ -1,6 +1,6 @@
 <div class="filament-hidden">
 
-![FilaKit](https://raw.githubusercontent.com/filakitphp/base/3.x/art/filakitphp-basev3.png)
+![FilaKit](https://raw.githubusercontent.com/filakitphp/base/main/art/filakitphp-basev3.png)
 
 </div>
 
