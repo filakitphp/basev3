@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## 3.3.47 - 2026-01-09
+
+### What's Changed
+
+* Bump dependabot/fetch-metadata from 2.4.0 to 2.5.0 in the actions-deps group by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/9
+* Bump laravel/pint from 1.26.0 to 1.27.0 in the actions-deps group by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/10
+* Bump vite from 7.3.0 to 7.3.1 in the actions-deps group by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/11
+* Bump the actions-deps group with 3 updates by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/12
+* Bump laravel/framework from 12.45.2 to 12.46.0 in the actions-deps group by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/13
+
+**Full Changelog**: https://github.com/filakitphp/basev3/compare/v3.3.46...3.3.47
+
 ## v3.3.46 - 2026-01-02
 
 ### What's Changed
