@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## 3.3.48 - 2026-02-10
+
+### What's Changed
+
+* Bump laravel/framework from 12.46.0 to 12.47.0 in the actions-deps group by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/14
+* Bump the actions-deps group with 2 updates by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/16
+* Bump the actions-deps group across 1 directory with 3 updates by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/17
+* Bump the actions-deps group with 3 updates by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/18
+* Bump the actions-deps group with 2 updates by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/19
+* Bump the actions-deps group with 3 updates by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/20
+* Bump axios from 1.13.4 to 1.13.5 in the actions-deps group by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/21
+* Bump the actions-deps group with 3 updates by @dependabot[bot] in https://github.com/filakitphp/basev3/pull/22
+
+**Full Changelog**: https://github.com/filakitphp/basev3/compare/3.3.47...3.3.48
+
 ## 3.3.47 - 2026-01-09
 
 ### What's Changed
