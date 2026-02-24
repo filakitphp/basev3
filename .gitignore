@@ -23,3 +23,5 @@ phpstan.neon
 /.nova
 /.vscode
 /.zed
+
+.claude/settings.local.json
