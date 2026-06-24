@@ -18,9 +18,6 @@ class AppServiceProvider extends ServiceProvider
         if (config('filakit.admin_panel_enabled', false)) {
             $this->app->register(AdminPanelProvider::class);
         }
-        if (config('filakit.favicon.enabled')) {
-            FilamentView::registerRenderHook(PanelsRenderHook::HEAD_START, fn (): View => view('components.favicon'));
-        }
         FilamentView::registerRenderHook(PanelsRenderHook::HEAD_START, fn (): View => view('components.js-md5'));
     }
 
